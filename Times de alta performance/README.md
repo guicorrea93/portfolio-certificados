@@ -1,4 +1,3 @@
-
 ---
 id: "times-alta-performance"
 titulo: "Times de Alta Performance"
