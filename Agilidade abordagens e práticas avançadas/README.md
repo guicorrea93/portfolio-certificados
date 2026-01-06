@@ -1,23 +1,23 @@
 ---
 id: agilidade-abordagens-praticas-avancadas
-titulo: Agilidade: abordagens e práticas avançadas
-tipo: Formação
-instituicao: Alura
-categoria: Agilidade
-duracao: 45h
-ano: 2025
+titulo: "Agilidade: abordagens e práticas avançadas"
+tipo: "Formação"
+instituicao: "Alura"
+categoria: "Agilidade"
+duracao: "45h"
+ano: "2025"
 destaque: false
-thumbnail: assets/img/certificados/agilidade-abordagens-praticas-avancadas-thumb.png
+thumbnail: "assets/img/certificados/agilidade-abordagens-praticas-avancadas-thumb.png"
 competencias:
-  - Agilidade
-  - Scrum
-  - Kanban
-  - Lean
-  - Gestão Ágil
-  - Liderança
-  - Facilitação
-  - Cultura Organizacional
-  - Melhoria Contínua
+  - "Agilidade"
+  - "Scrum"
+  - "Kanban"
+  - "Lean"
+  - "Gestão Ágil"
+  - "Liderança"
+  - "Facilitação"
+  - "Cultura Organizacional"
+  - "Melhoria Contínua"
 ---
 
 ## 📌 Descrição curta
