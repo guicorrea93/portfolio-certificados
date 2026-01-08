@@ -1,10 +1,10 @@
 ---
-id: agilidade-abordagens-praticas-avancadas
-titulo: "Agilidade: abordagens e práticas avançadas"
+id: "agilidade-abordagens-praticas-avancadas"
+titulo: "Agilidade: Abordagens e Práticas Avançadas"
 tipo: "Formação"
 instituicao: "Alura"
-categoria: "Agilidade"
-duracao: "45h"
+categoria: "Metodologias Ágeis"
+duracao: ""
 ano: "2025"
 destaque: false
 thumbnail: "assets/img/certificados/agilidade-abordagens-praticas-avancadas-thumb.png"
@@ -12,76 +12,68 @@ competencias:
   - "Agilidade"
   - "Scrum"
   - "Kanban"
-  - "Lean"
+  - "Agilidade Escalada"
+  - "Lean-Ágil"
+  - "Agile Coaching"
+  - "Liderança Ágil"
+  - "Cultura Ágil"
   - "Gestão Ágil"
-  - "Liderança"
-  - "Facilitação"
-  - "Cultura Organizacional"
-  - "Melhoria Contínua"
 ---
 
 ## 📌 Descrição curta
 
-Formação focada no aprofundamento de práticas ágeis, abordando frameworks, métodos e técnicas avançadas para atuação em contextos complexos, times maduros e organizações em transformação.
+Formação avançada em **metodologias ágeis**, focada em cultura, escalabilidade, liderança e práticas modernas de gestão ágil.
 
 ## 📖 Descrição completa
 
-A formação **Agilidade: abordagens e práticas avançadas** da Alura é voltada para profissionais que já possuem contato com métodos ágeis e desejam avançar para um nível mais estratégico e prático de atuação.
+A formação **Agilidade: Abordagens e Práticas Avançadas** da Alura aprofunda o uso das metodologias ágeis em contextos organizacionais mais complexos, indo além da aplicação básica de frameworks.
 
-Ao longo da formação, são exploradas abordagens como **Scrum**, **Kanban**, **Lean**, **gestão de fluxo**, **facilitação de times**, **liderança ágil** e **transformação organizacional**, com foco na aplicação real em ambientes corporativos complexos.
+Ao longo da formação, são explorados temas como **cultura e métodos ágeis**, **agilidade escalada**, **Lean-Ágil**, **Agile Coaching** e **liderança ágil**, preparando o profissional para atuar como agente de transformação em ambientes corporativos.
 
-O conteúdo prepara o aluno para atuar como **Agile Coach**, **Scrum Master**, **Líder Ágil** ou profissional de apoio à transformação cultural, desenvolvendo visão sistêmica, capacidade de facilitação, tomada de decisão e melhoria contínua.
-
----
-
-## 🎓 Cursos da formação
-
-### 1️⃣ Agilidade: fundamentos e práticas avançadas  
-🔗 https://cursos.alura.com.br/course/agilidade-fundamentos-praticas-avancadas  
-
-Aprofunda os conceitos fundamentais da agilidade, explorando práticas avançadas e sua aplicação em cenários reais, indo além do uso básico de frameworks.
+O foco está na disseminação da mentalidade ágil, no desenvolvimento de líderes e na aplicação de práticas que promovem **qualidade, geração de valor, colaboração e melhoria contínua** em diferentes níveis da organização.
 
 ---
 
-### 2️⃣ Scrum avançado: práticas para times maduros  
-🔗 https://cursos.alura.com.br/course/scrum-avancado  
+## 📚 Cursos da formação
 
-Aborda práticas avançadas do Scrum, focando em times com maior maturidade, melhoria de cerimônias, métricas, papéis e resolução de impedimentos complexos.
+### 1️⃣ Cultura e métodos ágeis: pilares para uma imersão avançada  
+🔗 https://cursos.alura.com.br/course/cultura-metodos-ageis-pilares-imersao-avancada  
 
----
-
-### 3️⃣ Kanban avançado: gestão de fluxo e melhoria contínua  
-🔗 https://cursos.alura.com.br/course/kanban-avancado  
-
-Explora o Kanban como método evolutivo, com foco em gestão de fluxo, políticas explícitas, métricas e otimização contínua do trabalho.
+Explora os fundamentos da cultura ágil, seus valores, princípios e aplicação em contextos organizacionais complexos.
 
 ---
 
-### 4️⃣ Lean: princípios, cultura e aplicação prática  
-🔗 https://cursos.alura.com.br/course/lean-principios-cultura  
+### 2️⃣ Ágil escalado: frameworks para grandes desenvolvimentos  
+🔗 https://cursos.alura.com.br/course/agil-escalado-frameworks-grandes-desenvolvimentos  
 
-Apresenta os princípios do Lean, conectando agilidade, eficiência operacional e cultura de melhoria contínua aplicada a times e organizações.
-
----
-
-### 5️⃣ Liderança ágil: pessoas, times e cultura  
-🔗 https://cursos.alura.com.br/course/lideranca-agil  
-
-Foca no papel da liderança em ambientes ágeis, abordando gestão de pessoas, autonomia, confiança, feedback e construção de times de alta performance.
+Apresenta frameworks de **agilidade escalada** e estratégias para aplicar métodos ágeis em grandes organizações.
 
 ---
 
-### 6️⃣ Facilitação ágil: técnicas para reuniões e decisões eficazes  
-🔗 https://cursos.alura.com.br/course/facilitacao-agil  
+### 3️⃣ Lean-Ágil: expanda horizontes para a organização toda  
+🔗 https://cursos.alura.com.br/course/lean-agil-expanda-horizontes-organizacao-toda  
 
-Ensina técnicas de facilitação para conduzir reuniões, workshops e processos colaborativos, apoiando a tomada de decisão e o alinhamento entre stakeholders.
-
----
-
-### 7️⃣ Agilidade organizacional: transformação e escala  
-🔗 https://cursos.alura.com.br/course/agilidade-organizacional  
-
-Aborda a aplicação da agilidade em nível organizacional, explorando transformação cultural, escalabilidade e adaptação de métodos ágeis a grandes estruturas.
+Conecta os princípios do **Lean** com a agilidade, promovendo visão sistêmica e foco na geração de valor.
 
 ---
 
+### 4️⃣ Agile Coaching: difunda o Ágil nas organizações  
+🔗 https://cursos.alura.com.br/course/agile-coaching-difunda-agil-organizacoes  
+
+Explora o papel do **Agile Coach** na transformação cultural, facilitação de times e desenvolvimento organizacional.
+
+---
+
+### 5️⃣ Tópicos avançados de agilidade: qualidade, valor e contratações  
+🔗 https://cursos.alura.com.br/course/topicos-avancados-agilidade-qualidade-valor-contratacoes  
+
+Aborda temas avançados de agilidade, incluindo qualidade, geração de valor e modelos de contratação ágil.
+
+---
+
+### 6️⃣ Liderança Ágil: aprimoramento de soft skills  
+🔗 https://cursos.alura.com.br/course/lideranca-agil-aprimoramento-soft-skills  
+
+Desenvolve habilidades de **liderança ágil**, com foco em comunicação, colaboração, feedback e desenvolvimento de pessoas.
+
+---
