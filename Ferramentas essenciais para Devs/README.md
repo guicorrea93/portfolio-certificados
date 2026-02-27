@@ -4,7 +4,7 @@ titulo: "Ferramentas para Desenvolvedores: Produtividade e Engenharia"
 tipo: "Formação"
 instituicao: "Alura"
 categoria: "Ferramentas de Desenvolvimento"
-duracao: ""
+duracao: "8 horas"
 ano: "2025"
 destaque: false
 thumbnail: "assets/img/certificados/ferramentas-desenvolvedores-produtividade-engenharia-thumb.png"

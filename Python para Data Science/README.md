@@ -4,7 +4,7 @@ titulo: "Data Science com Python"
 tipo: "Formação"
 instituicao: "Alura"
 categoria: "Data Science"
-duracao: ""
+duracao: "69 horas"
 ano: "2025"
 destaque: false
 thumbnail: "assets/img/certificados/data-science-python-thumb.png"

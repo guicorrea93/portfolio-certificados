@@ -4,7 +4,7 @@ titulo: "Business Agility"
 tipo: "Formação"
 instituicao: "Alura"
 categoria: "Agilidade"
-duracao: ""
+duracao: "57 horas"
 ano: "2025"
 destaque: false
 thumbnail: "assets/img/certificados/business-agility-thumb.png"

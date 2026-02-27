@@ -4,7 +4,7 @@ titulo: "Dominando o Power BI"
 tipo: "Formação"
 instituicao: "Alura"
 categoria: "Power BI"
-duracao: ""
+duracao: "55 horas"
 ano: "2025"
 destaque: false
 thumbnail: "assets/img/certificados/dominando-power-bi-thumb.png"

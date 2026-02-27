@@ -4,7 +4,7 @@ titulo: "Estatística com Python"
 tipo: "Formação"
 instituicao: "Alura"
 categoria: "Estatística e Data Science"
-duracao: ""
+duracao: "71 horas"
 ano: "2025"
 destaque: false
 thumbnail: "assets/img/certificados/estatistica-python-thumb.png"

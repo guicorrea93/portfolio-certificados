@@ -4,7 +4,7 @@ titulo: "Modelagem e Melhoria de Processos de Negócios"
 tipo: "Formação"
 instituicao: "Alura"
 categoria: "Processos e Governança"
-duracao: ""
+duracao: "68 horas"
 ano: "2025"
 destaque: false
 thumbnail: "assets/img/certificados/modelagem-melhoria-processos-negocios-thumb.png"

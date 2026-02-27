@@ -4,7 +4,7 @@ titulo: "Lean, Governança e Agilidade Escalada"
 tipo: "Formação"
 instituicao: "Alura"
 categoria: "Agilidade Escalada e Governança"
-duracao: ""
+duracao: "94 horas"
 ano: "2025"
 destaque: false
 thumbnail: "assets/img/certificados/lean-governanca-agilidade-escalada-thumb.png"

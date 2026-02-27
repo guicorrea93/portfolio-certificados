@@ -4,7 +4,7 @@ titulo: "Governança de TI: Estratégia, Gestão e Geração de Valor"
 tipo: "Formação"
 instituicao: "Alura"
 categoria: "Governança e Gestão de TI"
-duracao: ""
+duracao: "8 horas"
 ano: "2025"
 destaque: false
 thumbnail: "assets/img/certificados/governanca-ti-estrategia-gestao-valor-thumb.png"

@@ -4,7 +4,7 @@ titulo: "Power BI"
 tipo: "Formação"
 instituicao: "Alura"
 categoria: "Business Intelligence"
-duracao: ""
+duracao: "55 horas"
 ano: "2025"
 destaque: false
 thumbnail: "assets/img/certificados/power-bi-thumb.png"

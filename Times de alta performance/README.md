@@ -4,7 +4,7 @@ titulo: "Times de Alta Performance"
 tipo: "Formação"
 instituicao: "Alura"
 categoria: "Liderança e Gestão"
-duracao: ""
+duracao: "46 horas"
 ano: "2025"
 destaque: false
 thumbnail: "assets/img/certificados/times-alta-performance-thumb.png"

@@ -4,7 +4,7 @@ titulo: "Pensamento Estratégico"
 tipo: "Formação"
 instituicao: "Alura"
 categoria: "Estratégia e Gestão"
-duracao: ""
+duracao: "42 horas"
 ano: "2025"
 destaque: false
 thumbnail: "assets/img/certificados/pensamento-estrategico-thumb.png"

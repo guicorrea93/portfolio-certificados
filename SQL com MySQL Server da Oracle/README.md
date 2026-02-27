@@ -4,7 +4,7 @@ titulo: "Oracle MySQL"
 tipo: "Formação"
 instituicao: "Alura"
 categoria: "Banco de Dados"
-duracao: ""
+duracao: "66 horas"
 ano: "2025"
 destaque: false
 thumbnail: "assets/img/certificados/oracle-mysql-thumb.png"

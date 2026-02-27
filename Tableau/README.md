@@ -4,7 +4,7 @@ titulo: "Tableau"
 tipo: "Formação"
 instituicao: "Alura"
 categoria: "Business Intelligence"
-duracao: ""
+duracao: "92 horas"
 ano: "2025"
 destaque: false
 thumbnail: "assets/img/certificados/tableau-thumb.png"

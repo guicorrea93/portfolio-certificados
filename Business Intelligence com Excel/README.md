@@ -4,7 +4,7 @@ titulo: "Business Intelligence com Excel"
 tipo: "Formação"
 instituicao: "Alura"
 categoria: "Excel e Business Intelligence"
-duracao: ""
+duracao: "54 horas"
 ano: "2025"
 destaque: false
 thumbnail: "assets/img/certificados/business-intelligence-excel-thumb.png"

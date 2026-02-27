@@ -4,7 +4,7 @@ titulo: "Agilidade: Abordagens e Práticas Avançadas"
 tipo: "Formação"
 instituicao: "Alura"
 categoria: "Metodologias Ágeis"
-duracao: ""
+duracao: "50 horas"
 ano: "2025"
 destaque: false
 thumbnail: "assets/img/certificados/agilidade-abordagens-praticas-avancadas-thumb.png"

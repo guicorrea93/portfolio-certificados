@@ -4,7 +4,7 @@ titulo: "Modelagem de Dados"
 tipo: "Formação"
 instituicao: "Alura"
 categoria: "Banco de Dados"
-duracao: ""
+duracao: "33 horas"
 ano: "2025"
 destaque: false
 thumbnail: "assets/img/certificados/modelagem-dados-thumb.png"

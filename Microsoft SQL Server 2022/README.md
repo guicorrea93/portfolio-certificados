@@ -4,7 +4,7 @@ titulo: "Microsoft SQL Server 2022"
 tipo: "Formação"
 instituicao: "Alura"
 categoria: "Banco de Dados"
-duracao: ""
+duracao: "79 horas"
 ano: "2025"
 destaque: false
 thumbnail: "assets/img/certificados/microsoft-sql-server-2022-thumb.png"

@@ -4,7 +4,7 @@ titulo: "Empreendedorismo Digital"
 tipo: "Formação"
 instituicao: "Alura"
 categoria: "Empreendedorismo e Negócios"
-duracao: ""
+duracao: "76 horas"
 ano: "2025"
 destaque: false
 thumbnail: "assets/img/certificados/empreendedorismo-digital-thumb.png"

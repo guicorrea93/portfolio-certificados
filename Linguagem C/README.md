@@ -4,7 +4,7 @@ titulo: "Linguagem C"
 tipo: "Formação"
 instituicao: "Alura"
 categoria: "Programação"
-duracao: ""
+duracao: "26 horas"
 ano: "2025"
 destaque: false
 thumbnail: "assets/img/certificados/linguagem-c-thumb.png"

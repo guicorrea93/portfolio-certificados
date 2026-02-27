@@ -4,7 +4,7 @@ titulo: "Comunicação para Líderes"
 tipo: "Formação"
 instituicao: "Alura"
 categoria: "Liderança e Comunicação"
-duracao: ""
+duracao: "46 horas"
 ano: "2025"
 destaque: false
 thumbnail: "assets/img/certificados/comunicacao-lideres-thumb.png"

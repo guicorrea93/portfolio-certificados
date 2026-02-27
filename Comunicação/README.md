@@ -4,7 +4,7 @@ titulo: "Comunicação"
 tipo: "Formação"
 instituicao: "Alura"
 categoria: "Soft Skills"
-duracao: ""
+duracao: "54 horas"
 ano: "2025"
 destaque: false
 thumbnail: "assets/img/certificados/comunicacao-thumb.png"
