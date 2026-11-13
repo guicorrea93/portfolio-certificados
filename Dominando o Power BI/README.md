@@ -6,7 +6,7 @@ instituicao: "Alura"
 categoria: "Power BI"
 duracao: "55 horas"
 ano: "2023 - 2026"
-destaque: false
+destaque: true
 thumbnail: "assets/img/certificados/dominando-power-bi-thumb.png"
 competencias:
   - "Power BI"
