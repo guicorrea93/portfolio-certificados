@@ -5,7 +5,7 @@ tipo: "Formação"
 instituicao: "Alura"
 categoria: "Business Intelligence"
 duracao: "92 horas"
-ano: "2025"
+ano: "2023 - 2024"
 destaque: false
 thumbnail: "assets/img/certificados/tableau-thumb.png"
 competencias:

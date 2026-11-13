@@ -5,7 +5,7 @@ tipo: "Formação"
 instituicao: "Alura"
 categoria: "Data Science"
 duracao: "48 horas"
-ano: "2025"
+ano: "2025 - 2026"
 destaque: true
 thumbnail: "assets/img/certificados/machine-learning-thumb.png"
 competencias:

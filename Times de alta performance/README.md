@@ -5,7 +5,7 @@ tipo: "Formação"
 instituicao: "Alura"
 categoria: "Liderança e Gestão"
 duracao: "46 horas"
-ano: "2025"
+ano: "2024 - 2025"
 destaque: false
 thumbnail: "assets/img/certificados/times-alta-performance-thumb.png"
 competencias:

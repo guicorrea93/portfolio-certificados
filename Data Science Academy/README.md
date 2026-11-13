@@ -5,7 +5,7 @@ tipo: Formação
 instituicao: Data Science Academy
 categoria: Data Science
 duracao: "80 horas"
-ano: ""
+ano: "2025"
 destaque: false
 thumbnail: assets/img/certificados/data-science-academy-thumb.png
 competencias:

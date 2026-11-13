@@ -5,7 +5,7 @@ tipo: "Formação"
 instituicao: "Alura"
 categoria: "Gestão Ágil e Projetos"
 duracao: "85 horas"
-ano: "2025"
+ano: "2024 - 2025"
 destaque: false
 thumbnail: "assets/img/certificados/gestao-agil-projetos-thumb.png"
 competencias:

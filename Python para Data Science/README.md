@@ -5,7 +5,7 @@ tipo: "Formação"
 instituicao: "Alura"
 categoria: "Data Science"
 duracao: "69 horas"
-ano: "2025"
+ano: "2024 - 2025"
 destaque: false
 thumbnail: "assets/img/certificados/data-science-python-thumb.png"
 competencias:

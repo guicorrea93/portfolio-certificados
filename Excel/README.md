@@ -5,7 +5,7 @@ tipo: "Formação"
 instituicao: "Alura"
 categoria: "Excel e Análise de Dados"
 duracao: "58 horas"
-ano: "2025"
+ano: "2023"
 destaque: false
 thumbnail: "assets/img/certificados/excel-thumb.png"
 competencias:

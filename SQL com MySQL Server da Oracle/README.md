@@ -5,7 +5,7 @@ tipo: "Formação"
 instituicao: "Alura"
 categoria: "Banco de Dados"
 duracao: "66 horas"
-ano: "2025"
+ano: "2023"
 destaque: false
 thumbnail: "assets/img/certificados/oracle-mysql-thumb.png"
 competencias:

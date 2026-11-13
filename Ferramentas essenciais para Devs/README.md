@@ -5,7 +5,7 @@ tipo: "Formação"
 instituicao: "Alura"
 categoria: "Ferramentas de Desenvolvimento"
 duracao: "8 horas"
-ano: "2025"
+ano: "2023 - 2026"
 destaque: false
 thumbnail: "assets/img/certificados/ferramentas-desenvolvedores-produtividade-engenharia-thumb.png"
 competencias:

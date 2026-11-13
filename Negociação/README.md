@@ -5,7 +5,7 @@ tipo: "Formação"
 instituicao: "Alura"
 categoria: "Negociação e Comunicação"
 duracao: "31 horas"
-ano: "2025"
+ano: "2025 - 2026"
 destaque: false
 thumbnail: "assets/img/certificados/negociacao-praticas-estrategias-avancadas-thumb.png"
 competencias:

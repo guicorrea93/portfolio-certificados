@@ -5,7 +5,7 @@ tipo: Cursos Avulsos
 instituicao: Refuturiza
 categoria: Business Intelligence
 duracao: "10 horas"
-ano: ""
+ano: "2024"
 destaque: false
 thumbnail: assets/img/certificados/refuturiza-thumb.png
 competencias:

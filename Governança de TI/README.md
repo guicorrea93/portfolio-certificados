@@ -5,7 +5,7 @@ tipo: "Formação"
 instituicao: "Alura"
 categoria: "Governança e Gestão de TI"
 duracao: "8 horas"
-ano: "2025"
+ano: "2026"
 destaque: false
 thumbnail: "assets/img/certificados/governanca-ti-estrategia-gestao-valor-thumb.png"
 competencias:

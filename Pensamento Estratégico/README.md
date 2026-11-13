@@ -5,7 +5,7 @@ tipo: "Formação"
 instituicao: "Alura"
 categoria: "Estratégia e Gestão"
 duracao: "42 horas"
-ano: "2025"
+ano: "2024"
 destaque: false
 thumbnail: "assets/img/certificados/pensamento-estrategico-thumb.png"
 competencias:

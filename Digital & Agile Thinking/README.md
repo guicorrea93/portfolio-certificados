@@ -5,7 +5,7 @@ tipo: "Formação"
 instituicao: "Alura"
 categoria: "Agilidade e Transformação Digital"
 duracao: "69 horas"
-ano: "2025"
+ano: "2024"
 destaque: false
 thumbnail: "assets/img/certificados/digital-e-agile-thinking-thumb.png"
 competencias:

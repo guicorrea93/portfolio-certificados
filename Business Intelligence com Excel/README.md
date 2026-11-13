@@ -5,7 +5,7 @@ tipo: "Formação"
 instituicao: "Alura"
 categoria: "Excel e Business Intelligence"
 duracao: "54 horas"
-ano: "2025"
+ano: "2023"
 destaque: false
 thumbnail: "assets/img/certificados/business-intelligence-excel-thumb.png"
 competencias:

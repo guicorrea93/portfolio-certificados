@@ -5,7 +5,7 @@ tipo: "Formação"
 instituicao: "Alura"
 categoria: "Banco de Dados"
 duracao: "79 horas"
-ano: "2025"
+ano: "2023"
 destaque: false
 thumbnail: "assets/img/certificados/microsoft-sql-server-2022-thumb.png"
 competencias:
