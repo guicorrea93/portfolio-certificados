@@ -1,3 +1,28 @@
+---
+id: machine-learning-com-python-regressao
+titulo: Machine Learning com Python - Regressão
+tipo: Formação
+instituicao: Alura
+categoria: Machine Learning
+duracao: 32h
+ano: 2025 - 2026
+destaque: false
+competencias:
+- Regressão linear
+- Transformação de variáveis
+- Árvores de regressão
+- XGBoost
+- Avaliação de desempenho preditivo
+---
+
+## 📌 Descrição curta
+
+Trilha de Machine Learning focada em **modelos de regressão**, da regressão linear ao **XGBoost**.
+
+## 📖 Descrição completa
+
+Quatro cursos que constroem o repertório de regressão passo a passo: testar relações com **regressão linear**, **transformar variáveis** para melhorar o ajuste, construir **árvores de regressão** e aprimorar os resultados com **XGBoost**, sempre avaliando o desempenho preditivo dos modelos.
+
 # Machine Learning com Python - Regressao
 
 Certificados da trilha de Machine Learning com foco em modelos de regressao.

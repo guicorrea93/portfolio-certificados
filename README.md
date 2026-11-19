@@ -6,6 +6,53 @@ O diretorio serve como acervo documental e como fonte para o site pessoal
 `guicorrea93.github.io`, onde os certificados podem ser exibidos de forma
 navegavel.
 
+## Como adicionar um certificado
+
+1. Crie uma pasta por formação (ex.: `Power Bi/`) e coloque os PDFs dentro.
+   O certificado da formação inteira deve ter "Formação" no nome do arquivo
+   (ex.: `Power Bi - Formação.pdf`); ele vira a capa do card.
+2. Crie um `README.md` na pasta com este cabeçalho (é a fonte oficial dos textos do site):
+
+```markdown
+---
+id: power-bi
+titulo: Power BI
+tipo: Formação
+instituicao: Alura
+categoria: Business Intelligence
+duracao: 55 horas
+ano: "2023"
+destaque: false
+competencias:
+  - Power BI
+  - DAX
+---
+
+## 📌 Descrição curta
+
+Uma ou duas frases para o card. **Negrito** funciona.
+
+## 📖 Descrição completa
+
+Texto do modal do certificado.
+```
+
+3. Envie para o GitHub. O robô do site (toda segunda, ou pelo botão em
+   *Actions* do repositório do site) gera miniaturas e dados e abre um pedido
+   de aprovação. Sem README, a formação entra com textos provisórios marcados
+   para revisão.
+
+> **Cuidado com dados pessoais:** não suba PDF com CPF, RG ou telefone visíveis.
+> O validador do site bloqueia CPF/RG/telefone no texto do PDF; PDFs
+> digitalizados (imagem) precisam ser conferidos a olho.
+
+Categorias que viram filtros no site: Business Intelligence, Power BI, Excel e
+Business Intelligence, Excel e Análise de Dados, Data Science, Estatística e Data
+Science, Machine Learning, Banco de Dados, Programação, Ferramentas de
+Desenvolvimento, Inteligência Artificial, Metodologias Ágeis, Agilidade, Gestão
+Ágil e Projetos, Governança e Gestão de TI, Processos e Governança, Soft Skills,
+Liderança e Comunicação, Negociação e Comunicação, Liderança e Gestão (entre outras).
+
 ## Estrutura
 
 Cada subpasta representa uma formacao, trilha ou tema. Dentro de cada pasta ficam
